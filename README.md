@@ -1,6 +1,6 @@
 <h1 align="center">Halo , I'm Ahmad Ja'far Shodiq</h1>
 
-<h3 align="center">Full-Stack & Mobile Developer 💻 | AI, IoT & Automation🚀</h3>
+<h3 align="center">Full-Stack & Web Mobile Developer 💻 | AI, IoT & Automation🚀</h3>
 
 
 --
