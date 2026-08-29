@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmadJafarShodiq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;AI,+IoT+%26+Automation;Peraih+Medali+Juara+3+KMIPN+2025" alt="Typing SVG" />
+  </a>
 </p>
-
 ---
 
 👨‍💻 **Tentang Saya:**
