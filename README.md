@@ -6,7 +6,7 @@
 --
 
 👨‍💻 **Tentang Saya:**
-- 🔭 Saat ini sedang fokus mengembangkan: **AI Credit Analysis System ** & **Flutter Mobile Apps** (seperti *Mosquito Cam* & *FaceReq Absensi*).
+- 🔭 Saat ini sedang fokus mengembangkan: AI Credit Analysis System  & **Flutter Mobile Apps** (seperti *Mosquito Cam* & *FaceReq Absensi*).
 - 🌱 Saat ini sedang mengeksplorasi: **Advanced Agentic AI Workflows (n8n)** & **Internet of Things (IoT)**.
 - 👯 Tertarik untuk kolaborasi di proyek: **Open Source, Solusi AI Terapan, dan Software Bisnis (SaaS)**.
 - 🎓 Mahasiswa Informatika di **Politeknik Negeri Jember (Peraih Medali Juara 3 KMIPN 2025 E-Goverment)**.
