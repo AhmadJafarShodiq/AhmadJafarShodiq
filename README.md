@@ -6,12 +6,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;AI,+IoT+%26+Automation;Peraih+Medali+Juara+3+KMIPN+2025" alt="Typing SVG" />
-  </a>
-</p>
----
+<h3 align="center">Full-Stack & Mobile Developer 💻 | AI, IoT & Automation Enthusiast 🚀</h3>
+
+<h4 align="center">🏆 Peraih Medali Juara 3 KMIPN 2025 🏆</h4>
+--
 
 👨‍💻 **Tentang Saya:**
 - 🔭 Saat ini sedang fokus mengembangkan: **AI Credit Analysis System** & **Flutter Mobile Apps** (seperti *Mosquito Cam* & *FaceReq Absensi*).
