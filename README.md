@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Ja'far Shodiq</h1>
+<h1 align="center">Halo , I'm Ahmad Ja'far Shodiq</h1>
 
 <h3 align="center">Full-Stack & Mobile Developer 💻 | AI, IoT & Automation🚀</h3>
 
@@ -6,10 +6,10 @@
 --
 
 👨‍💻 **Tentang Saya:**
-- 🔭 Saat ini sedang fokus mengembangkan: **AI Credit Analysis System** & **Flutter Mobile Apps** (seperti *Mosquito Cam* & *FaceReq Absensi*).
+- 🔭 Saat ini sedang fokus mengembangkan: **AI Credit Analysis System ** & **Flutter Mobile Apps** (seperti *Mosquito Cam* & *FaceReq Absensi*).
 - 🌱 Saat ini sedang mengeksplorasi: **Advanced Agentic AI Workflows (n8n)** & **Internet of Things (IoT)**.
 - 👯 Tertarik untuk kolaborasi di proyek: **Open Source, Solusi AI Terapan, dan Software Bisnis (SaaS)**.
-- 🎓 Mahasiswa Informatika di **Politeknik Negeri Jember (Peraih Medali Juara 3 KMIPN 2025)**.
+- 🎓 Mahasiswa Informatika di **Politeknik Negeri Jember (Peraih Medali Juara 3 KMIPN 2025 E-Goverment)**.
 - 📫 Hubungi saya: **ahmadjafarshodiq10@gmail.com**
 
 <br/>
@@ -45,8 +45,7 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadJafarShodiq&show_icons=true&theme=omni" alt="Ahmad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadJafarShodiq&layout=compact&theme=omni" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadJafarShodiq&theme=dracula" alt="Ahmad's GitHub Stats" />
 </div>
 
 <br/>
