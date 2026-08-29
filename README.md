@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ja'far Shodiq</h1>
 
-<h3 align="center">Full-Stack & Mobile Developer 💻 | AI, IoT & Automation Enthusiast 🚀</h3>
+<h3 align="center">Full-Stack & Mobile Developer 💻 | AI, IoT & Automation🚀</h3>
 
-<h4 align="center">🏆 Peraih Medali Juara 3 KMIPN 2025 🏆</h4>
+
 --
 
 👨‍💻 **Tentang Saya:**
